@@ -1,4 +1,6 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
-np.array ([[4,5),
-           [5,7]])
+xc = array ([1,2,3,4])
+plt.plot (xc)
+plt.show ()
