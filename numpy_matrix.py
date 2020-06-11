@@ -1,3 +1,6 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
-np.matrix([1,3,4,6)]
+xc = array ([1,2,3,4])
+plt.plot (xc)
+plt.show ()
