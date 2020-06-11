@@ -1,3 +1,4 @@
 import numpy as np
 
-np.matrix([1,3,4,6)]
+np.array ([[4,5),
+           [5,7]])
